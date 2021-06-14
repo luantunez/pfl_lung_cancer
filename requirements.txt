@@ -1,0 +1,7 @@
+xgboost
+numpy 
+scipy 
+scikit-image
+SimpleITK 
+h5py 
+optparse-pretty
